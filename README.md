@@ -1,6 +1,3 @@
 
 
- **全网最简单但实用的SpringBoot+Vue前后端分离项目实战（难度初级、适合新手）** 
-
-
- **视频教程地址：**  https://www.bilibili.com/video/BV1dG4y1T7yp/ 
+SpringBoot+Vue前后端分离项目实战（初级新手
